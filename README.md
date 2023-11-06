@@ -40,13 +40,13 @@ Para executar o projeto em sua máquina local, siga estas etapas:
 2. Clone o repositório do projeto:
 
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone <https://github.com/Rodrigobarb/caixa-eletronico.git>
    ```
 
 3. Navegue até a pasta raiz do projeto:
 
    ```bash
-   cd <NOME_DO_PROJETO>
+   cd <caixa-eletronico.git>
    ```
 
 4. Instale as dependências do projeto:
